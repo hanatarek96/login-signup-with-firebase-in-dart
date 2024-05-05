@@ -5,7 +5,7 @@
 [![Powered by Dart Frog](https://img.shields.io/endpoint?url=https://tinyurl.com/dartfrog-badge)](https://dartfrog.vgv.dev)
 
 a console sign up/login in firebase using http api and saving user data in firestore database 
-you can test it using postman by adding the url using the POST methods wher you enter email , password , phone , username in sign up 
+you can test it using postman by adding the url using the POST methods where you enter email, password, phone, username in sign up 
 and email and password in login 
 
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
