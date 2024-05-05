@@ -8,6 +8,8 @@ a console sign up/login in firebase using http api and saving user data in fires
 you can test it using postman by adding the url using the POST methods where you enter email, password, phone, username in sign up 
 and email and password in login 
 
+Make sure to change your API_key, project_id and the collection and docID to your own 
+
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
