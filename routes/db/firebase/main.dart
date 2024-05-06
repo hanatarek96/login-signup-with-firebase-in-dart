@@ -5,7 +5,7 @@ var userId;
 final String firebaseUrl = 'https://identitytoolkit.googleapis.com/v1/accounts';
 final String apiKey = 'AIzaSyDreQCNmimnvoJESFbMslPUgkdvICMPHII'; // Replace with your Firebase API key
 final String firebaseAuthUrl = 'https://identitytoolkit.googleapis.com/v1/accounts';
-final String firebaseFirestoreBaseUrl = 'https://firestore.googleapis.com/v1/projects/firsttrialdupli/databases/(default)/documents/users/$userId/info/$userId';
+final String firebaseFirestoreBaseUrl = 'https://firestore.googleapis.com/v1/projects/firsttrialdupli/databases/(default)/documents/users/$userId/info';
 //final String firebaseFirestoreUrl = 'https://firestore.googleapis.com/v1/projects/firsttrialdupli/databases/(default)/documents/users/o17VC67mmno3HeO8jjtF/info/{USER_ID}'; // Replace with your Firestore URL
   
 
